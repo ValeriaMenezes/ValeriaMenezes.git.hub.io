@@ -1,0 +1,55 @@
+ body {
+   background-color: #B0C4DE;
+   font-size: 20px;
+   font-family: 'Charis SIL', serif;
+   padding: 20px;
+ }
+ h1 {
+ color: #00008B;
+ }
+ h2 {
+ font-size: ;
+ color: #0000CD;
+ }
+ .list {
+  color: #0000FF;
+ }
+ .button {
+  background-color: #191970;
+  color: #1E90FF;
+  padding: 15px 30px;
+  border-radius: 50px;
+  text-decoration: none;
+  font-weight: 800;
+ } 
+ .foto-redonda {
+   border-radius: 50% 10%;
+ }
+ .remove-sublinhado {
+  text-decoration: none
+ }
+ .div { 
+     border: 2px solid blue
+ }
+ #minha-foto {
+     float: left;
+     height: 380px;
+     padding: 5px;
+     background-color: #000080	;
+ }
+ .image-box {
+     height: 400px;
+     position: relative;
+ }
+ .meuNome {
+     text-align: center;
+ }
+ .posição {
+    position: relative;
+    top: 20%;
+    left: 1%;
+ }
+ ul li:nth-child(odd) {
+     background-color: 	#D3D3D3;
+ }
+
